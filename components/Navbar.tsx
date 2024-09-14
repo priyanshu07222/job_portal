@@ -8,6 +8,7 @@ export const Navbar = () => {
                 <div className='font-bold text-4xl font-inter'>remote1</div>
                 <div className='flex justify-between gap-8 text-lg'>
                     <Link href={'/'}>Home</Link>
+                    <Link href={'/'}>Discover</Link>
                     <Link href={'/'} >Find jobs</Link>
                     <Link href={'/'}>Create Jobs</Link>
                 </div>
