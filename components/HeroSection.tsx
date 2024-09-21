@@ -8,7 +8,7 @@ export const HeroSection = () => {
         <div className=''>
             <div className='h-[80vh] flex justify-between items-center p-2  '>
                 <div className='-translate-y-14'>
-                    <h1 className='text-7xl font-extrabold text-blue-600 font-montserrat my-4 '>Find Your Perfect Remote Jobs</h1>
+                    <h1 className='text-7xl font-extrabold text-blue-900 font-montserrat my-4 '>Find Your Perfect <span className='text-'>Remote Jobs</span></h1>
                     <p className='font-medium text-lg text-gray-600'>World's #1 Remote job portal that help you to find your First Remote job.</p>
                     <div className='flex gap-14 my-10'>
                         <button className='px-6 py-2 rounded-lg border border-black text-black font-semibold'>Find Job</button>
