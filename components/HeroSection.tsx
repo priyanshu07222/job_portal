@@ -18,7 +18,6 @@ export const HeroSection = () => {
                 <div className=' flex justify-center w-1/2 '>
                     <img src='remote1.png' alt="" className='' />
                 </div>
-
             </div>
         </div>
     )
